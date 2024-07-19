@@ -3,3 +3,5 @@ encoding: utf-8
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
+sass:
+  style: :compressed
