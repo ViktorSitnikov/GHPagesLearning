@@ -35,3 +35,7 @@ a {
 a:visited {
   color: indianred;
 }
+
+p {
+    background-color: red;
+}
